@@ -1,0 +1,64 @@
+=== STEP 001 ===
+On move: RED
+Chosen column: 5
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ X _
+=== STEP 002 ===
+On move: YEL
+Chosen column: 0
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+O _ _ _ _ X _
+=== STEP 003 ===
+On move: RED
+Chosen column: 5
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ X _
+O _ _ _ _ X _
+=== STEP 004 ===
+On move: YEL
+Chosen column: 1
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ X _
+O O _ _ _ X _
+=== STEP 005 ===
+On move: RED
+Chosen column: 5
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ X _
+_ _ _ _ _ X _
+O O _ _ _ X _
+=== STEP 006 ===
+On move: YEL
+Chosen column: 6
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ X _
+_ _ _ _ _ X _
+O O _ _ _ X O
+=== STEP 007 ===
+On move: RED
+Chosen column: 5
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ X _
+_ _ _ _ _ X _
+_ _ _ _ _ X _
+O O _ _ _ X O
+WIN: RED

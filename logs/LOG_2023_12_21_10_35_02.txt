@@ -1,0 +1,63 @@
+=== STEP 001 ===
+On move: RED
+Chosen column: 0
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+X _ _ _ _ _ _
+=== STEP 002 ===
+On move: YEL
+Chosen column: 0
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+=== STEP 003 ===
+On move: RED
+Chosen column: 0
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+X _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+=== STEP 004 ===
+On move: YEL
+Chosen column: 0
+_ _ _ _ _ _ _
+_ _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+=== STEP 005 ===
+On move: RED
+Chosen column: 0
+_ _ _ _ _ _ _
+X _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+=== STEP 006 ===
+On move: YEL
+Chosen column: 0
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+=== STEP 007 ===
+On move: RED
+Chosen column: 1
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+O _ _ _ _ _ _
+X _ _ _ _ _ _
+O _ _ _ _ _ _
+X X _ _ _ _ _

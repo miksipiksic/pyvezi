@@ -1,0 +1,3 @@
+=== STEP 001 ===
+On move: RED
+Chosen column: None
